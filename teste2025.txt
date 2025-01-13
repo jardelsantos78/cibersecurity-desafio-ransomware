@@ -1,0 +1,1 @@
+Arquivo de teste criado para validar o funcionamento dos códigos CRIPTOGRAFAR.PY e DESCRIPTOGRAFAR.PY
