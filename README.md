@@ -71,7 +71,7 @@ Após a criação dos arquivos na etapa anterior, vamos editá-los para que poss
 
 - Repita a operação para editar os arquivos criptografar.py e descriptografar.py;
   - *__Nota:__* para facilitar o processo, utilize os arquivos disponíveis neste repositório.
-  - **criptografar.py:**
+- **criptografar.py:**
 <p>
   <img width="410" height="59" src="imagens/08-nano-criptografar-0.png">
 </p>
