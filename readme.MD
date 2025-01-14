@@ -9,5 +9,7 @@ Para esta simulação, você precisará do sistema operacional abaixo instalado 
 
 - *Kali Linux*: Sistema operacional especializado em testes de segurança e penetração (link para download: https://www.kali.org/).
 
-### Passo a Passo
+### Passo a Passo  
 
+**Observação:** Para realizar este teste, pode ser necessário acesso de administrador (root) do Kali Linux. Dessa forma, terá as permissões necessárias para executar os comandos:
+- Abra o terminal;
