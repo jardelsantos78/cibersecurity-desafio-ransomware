@@ -26,4 +26,4 @@ with open(new_file_name, "wb") as new_file:
     new_file.write(decrypt_data)
 
 # Exibe uma mensagem de sucesso ao descriptografar o arquivo
-print(f"Arquivo {new_file_name} descriptografado com sucesso!"
+print(f"Arquivo {new_file_name} descriptografado com sucesso!")
