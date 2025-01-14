@@ -11,5 +11,6 @@ Para esta simulação, você precisará do sistema operacional abaixo instalado 
 
 ### Passo a Passo  
 
-**Observação:** Para realizar este teste, pode ser necessário acesso de administrador (root) do Kali Linux. Dessa forma, terá as permissões necessárias para executar os comandos:
+**Observação:** Para realizar este teste, pode ser necessário acesso de administrador (root) do Kali Linux.
+**1. Criando a pasta e os arquivos necessários para o teste**
 - Abra o terminal;
