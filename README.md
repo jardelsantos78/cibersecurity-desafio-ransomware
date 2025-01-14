@@ -1,4 +1,4 @@
-# Projeto: como criar um ataque phishing no Kali Linux para captura de senhas do Facebook
+# Projeto: como criptografar/descriptografar (ataque Ransomware) utilizando linguagem Python
 
 ## Aviso Importante
 Este guia é destinado exclusivamente para fins educacionais ou testes autorizados. A utilização para atividades ilícitas acarretará em sérias consequências legais.
@@ -7,17 +7,16 @@ Este guia é destinado exclusivamente para fins educacionais ou testes autorizad
 
 Para esta simulação, você precisará do sistema operacional abaixo instalado e configurado em um ambiente de teste virtual:
 
-- *Kali Linux*: Sistema operacional especializado em testes de segurança e penetração (link para download: https://www.kali.org/).
-- *SET Toolkit* (Social-Engineer Toolkit): ferramenta pré-instalada no Kali Linux para engenharia social.
+- *Kali Linux*: Sistema operacional especializado em testes de segurança e penetração. No site https://www.kali.org/ será possível efetuar download do arquivo ISO para instalação manual ou arquivo de imagem pré-configurada para máquinas virtuais.
 
 ### Passo a Passo
 
-**1. Ativando o modo administrador (root)**  
-Para realizar o teste, você precisará de acesso de administrador (root) do Kali Linux. Dessa forma, terá as permissões necessárias para executar os comandos:
+**1. Criando a pasta e os arquivos necessários para o teste**  
+Para este teste, criaremos uma pasta e três arquivos no Kali Linux conforme passos descritos a seguir:
 - Abra o terminal;
-- Digite: **sudo su** pressione a tecla ENTER e informe a senha (caso seja solicitado):
+- Digite: **mkdir projeto-ransomware-2025** pressione a tecla ENTER e informe a senha (caso seja solicitado):
 <p>
-  <img width="259" height="79" src="images/01-login.png">
+
 </p>  
 
 **2. Executando a ferramenta SET Toolkit**  
